@@ -1,14 +1,52 @@
  What is your favorite reconnaissance tool? The reason we ask is because you definitely need to find the IP Address of Charlies Root
  
- Now that you know what the Ip address is, you need to perform a scan of that IP Address 
- 
- After performing the scan, what do you see?
+ Now that you know what the Ip address is, perform a scan of that IP Address 
  
  How many Ports are open?
  
  What ports are open?
  
- Notice anything strange?
+ Out of all the open Ports, which Port can you get the most information from?
+ 
+ See what information you can find from the service that runs on that Port.
+ 
+ There seems to be a lot of hidden information {Flags} embeded in metadata of certain files (Pictures)
+ 
+ It would also be smart to see what Directories you can find and pay attention, certain directories might not be what they are claiming to be 
+ 
+ At this stage, your goal is to find two files. (Crack Password)
+ 
+ i dont need to tell you what to do next.......
+ 
+ Crack Password by implementing the 2 files you found and a tool you think might work. (Clue on Webpage)
+ 
+ Do you have the information you need to get access to the machine? (Username and Password)
+ 
+ Now go back to your scan, notice any other service you can log into based on the information you have?
+ 
+ Get access to the Machine by logging into the service
+ 
+ Cat the file in Documents Folder to get your First FLAG! (its Hidden)
+ 
+ Next Step is to Privilege Escalate to the Root User, i cant help you here but sshhhhh look through some metadata of files that have metadata ;)
+ 
+ What tool does the hidden Flag point you to?
+ 
+ How can you get root access with this particular tool?
+ 
+ Cat the File Root in the Picture Folder to get your last {FLAG} (Its Hidden) 
+ 
+ What is Charlies Root??
+ 
+ Congratulations!!!!! You Broke the Box!! Kudos!!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 
