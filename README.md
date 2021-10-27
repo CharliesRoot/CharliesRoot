@@ -7,4 +7,5 @@ Hello Angels and welcome to the Git-hub Page for Charlie's Root. Charlie's Root 
 Have Fun! 
 
 
-![giphy (1)](https://user-images.githubusercontent.com/93014741/138553280-a4907f45-c0ce-4815-8455-3e00c0bd6f7a.gif)
+![giphy (1)]![Charlies_root_logo](https://user-images.githubusercontent.com/93014741/139043210-a263a6a4-be20-43eb-bad3-a3aae930d341.png)
+
